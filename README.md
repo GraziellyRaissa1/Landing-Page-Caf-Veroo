@@ -18,4 +18,5 @@
 -----
 grazyraissa7@gmail.com
 
-![Captura de tela 2024-04-22 011819](https://github.com/GraziellyRaissa1/Landing-Page-Caf-Veroo/assets/147439694/2fa871c3-7fb0-43ff-bbc9-0958ddf97264)
+
+![Captura de tela 2024-04-22 011937](https://github.com/GraziellyRaissa1/Landing-Page-Caf-Veroo/assets/147439694/968e1d5b-10e9-4177-bb1e-72fe88503ff5)
